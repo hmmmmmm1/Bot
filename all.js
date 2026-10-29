@@ -1,0 +1,1 @@
+module.exports={name:"all",description:"Preview announcement (demo only)",execute:({members=[],message="Hello everyone!"}={})=>`📣 Announcement preview for ${members.length} members:\n${message}\n\nDemo only: no real Instagram tagging or messaging.`};

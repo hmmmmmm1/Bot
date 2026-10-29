@@ -1,0 +1,1 @@
+module.exports={name:"help",description:"Show commands",execute:()=> "Use !help. See README.md for the full command list."};

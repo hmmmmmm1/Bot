@@ -1,0 +1,10 @@
+{
+  "prefix": "!",
+  "ownerIds": ["CHANGE_ME_TO_YOUR_OWNER_ID"],
+  "port": 3000,
+  "xpPerMessageMin": 5,
+  "xpPerMessageMax": 12,
+  "xpCooldownSeconds": 45,
+  "dailyPoints": 100,
+  "currencyName": "points"
+}
